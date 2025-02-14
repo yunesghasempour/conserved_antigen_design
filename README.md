@@ -32,7 +32,7 @@ The script includes code to automatically install any missing packages.
 
 ## Installation
 
-Clone or download the repository, then open the `HPV16_L1_Analysis.R` script in RStudio or run it from the R console:
+Clone or download the repository, then open the `conserved Antigen.R` script in RStudio or run it from the R console:
 
 ```bash
 git clone https://github.com/yunesghasempour/conserved_antigen_design.git
